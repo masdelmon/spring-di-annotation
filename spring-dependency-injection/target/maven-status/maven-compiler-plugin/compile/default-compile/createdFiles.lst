@@ -1,0 +1,8 @@
+com/journaldev/spring/di/services/TwitterService.class
+com/journaldev/spring/di/consumer/MyApplication.class
+com/journaldev/spring/di/services/EmailService.class
+com/journaldev/spring/di/consumer/MyXMLApplication.class
+com/journaldev/spring/di/test/ClientXMLApplication.class
+com/journaldev/spring/di/configuration/DIConfiguration.class
+com/journaldev/spring/di/services/MessageService.class
+com/journaldev/spring/di/test/ClientApplication.class
